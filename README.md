@@ -10,3 +10,7 @@ Jurusan Teknik Informatika<br>
 Fakultas Sains dan Teknologi <br>
 UIN Sunan Gunung Djati Bandung <br> 2023
 
+# Link Video Penjelasan
+# 1. Muhammad Adam Sirojuddin Munawar ( 1237050133)
+# 2. Muhammad Satrio Pratama (1237050047)
+# 3. Muhammad Tibia Nugraha (1237050089)
