@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "KampusSimulator",
+            "request": "launch",
+            "mainClass": "KampusSimulator",
+            "projectName": "Kampus Simulator_876634c6"
+        },
+        {
+            "type": "java",
+            "name": "waktu",
+            "request": "launch",
+            "mainClass": "ui.waktu",
+            "projectName": "Kampus Simulator_9a448580"
+        },
+        {
+            "type": "java",
+            "name": "KampusSimulator",
+            "request": "launch",
+            "mainClass": "KampusSimulator",
+            "projectName": "Kampus Simulator_9a448580"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
