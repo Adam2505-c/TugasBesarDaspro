@@ -11,6 +11,4 @@ Fakultas Sains dan Teknologi <br>
 UIN Sunan Gunung Djati Bandung <br> 2023
 
 # Link Video Penjelasan
-# 1. Muhammad Adam Sirojuddin Munawar ( 1237050133)
-# 2. Muhammad Satrio Pratama (1237050047)
-# 3. Muhammad Tibia Nugraha (1237050089)
+Link (https://drive.google.com/drive/folders/1GKjnB-AAV4xUGqER8JRvweaVIsoHMPN8?usp=sharing)
